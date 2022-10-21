@@ -1,5 +1,4 @@
 body{
-    height: 100vh;
     background-image: url("../img/backgroundwillsmith.jpg");
     display: flex;
     justify-content: center;
@@ -13,7 +12,7 @@ body{
     justify-content: space-around;
 }
 .div,h2{
-    background-color: rgba(0, 0, 0, 0.22);
+    background-color: rgba(0, 0, 0, 0.47);
     color: white;
 }
 .grid{
@@ -26,4 +25,11 @@ body{
     height: 300px;
     width: 300px;
     border: solid 5px white;
+}
+
+.chris
+{
+    background-image: url("../img/chris.jpg");
+    background-size: cover;
+    background-position: center;
 }
